@@ -10,7 +10,7 @@ Prequisites
 - In this project i used simple react libraries so you dont need any external libraries for running :)
 - This project has springboot api so you MUST install api for this link
  
-www.github.com
+https://github.com/Aerenttk/ekiptesinCaseBackEnd.git
  
  AUTHOR
  - This projects coded by Ali Eren Tetik
